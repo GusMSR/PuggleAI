@@ -1,0 +1,8 @@
+torch
+transformers
+datasets
+python-chess
+stockfish
+jupyter
+nbformat
+nbconvert
