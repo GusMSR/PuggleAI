@@ -15,10 +15,12 @@ This project was a **proof of concept** to apply *fine-tuning* of language model
 4. **Deployment**: inference tests through Hugging Face to generate automatic commentary.  
 
 ## Repository structure
+```
 puggle-ai/
 ├── notebooks/ # Training and deployment notebooks
 ├── data/ # Example dataset
 └── models/ # Link to Hugging Face model
+```
 
 
 ## Example usage
@@ -35,9 +37,11 @@ Good effort!
 ```
 
 ## Installation 
+```
 git clone https://github.com/yourusername/puggle-ai.git
 cd puggle-ai
 pip install -r requirements.txt
+```
 
 ## Results
 The model provides understandable and encouraging feedback.
